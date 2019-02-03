@@ -1,5 +1,4 @@
 # NewMoms (Check us out at [ppd.surge.sh](ppd.surge.sh))!
-[https://github.com/Lolz1243/NewMoms/blob/master/images/icon/Untitled-4.png[alt=logo]
 Improved Access to Clinical and Mental Health Resources for Postpartum Women
 
 ## Problem
