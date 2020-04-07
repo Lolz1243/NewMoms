@@ -25,6 +25,6 @@ In conclusion, NEWMOMS will be a tool where women can view their changing mental
 - [Lightbox2](https://github.com/lokesh/lightbox2)
 
 ## Awards
-### Triangle Health Innovation Challenge (THInC) 2019 Top 5 Overall Finalist
+### Triangle Health Innovation Challenge ([THInC](http://www.thincweekend.org/)) 2019 Top 5 Overall Finalist 
 
 Made with ❤ in 2019
